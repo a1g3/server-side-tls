@@ -248,8 +248,8 @@ $(document).ready(function() {
     function loadFromQueryString() {
         // http://stackoverflow.com/a/10834119/837015
         var defaults = {
-            "server": "apache-2.2.15",
-            "openssl": "1.0.1e",
+            "server": "apache-2.4.33",
+            "openssl": "1.1.1h",
             "hsts": "yes",
             "profile": "intermediate"
         };
